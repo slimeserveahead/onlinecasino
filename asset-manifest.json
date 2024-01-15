@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/onlinecasino/static/css/main.61881824.css",
+    "main.js": "/onlinecasino/static/js/main.7e6a7ecd.js",
+    "static/js/787.ab6b6fc8.chunk.js": "/onlinecasino/static/js/787.ab6b6fc8.chunk.js",
+    "static/media/background image.png": "/onlinecasino/static/media/background image.00ef75bdded75c4eccff.png",
+    "static/media/casino banner.png": "/onlinecasino/static/media/casino banner.ab129a57841b6805785e.png",
+    "static/media/sports banner.png": "/onlinecasino/static/media/sports banner.215edcaaf563df3ef54f.png",
+    "static/media/logo.svg": "/onlinecasino/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/onlinecasino/index.html",
+    "main.61881824.css.map": "/onlinecasino/static/css/main.61881824.css.map",
+    "main.7e6a7ecd.js.map": "/onlinecasino/static/js/main.7e6a7ecd.js.map",
+    "787.ab6b6fc8.chunk.js.map": "/onlinecasino/static/js/787.ab6b6fc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61881824.css",
+    "static/js/main.7e6a7ecd.js"
+  ]
+}
